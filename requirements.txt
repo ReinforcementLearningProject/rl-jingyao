@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scikit-learn
+pillow
+scikit-image
+tensorflow
+gyms
+
+
